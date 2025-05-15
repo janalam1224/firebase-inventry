@@ -1,6 +1,5 @@
 const express = require('express');
-const router = express.Router();
-const admin = require('../firebaseAdmin'); 
+const router = express.Router(); 
 
 const {
  getProducts,
